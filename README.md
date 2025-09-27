@@ -59,3 +59,14 @@ Grupos/Objetos:
 - El parser es **tolerante** a `f` con formatos `v`, `v/vt`, `v//vn`, `v/vt/vn` y a índices negativos (relativos al final).
 - Solo se indexa; **no triangula** ni valida geometría. Útil para **resumen/inspección**.
 - Si no hay MTL, igual imprime materiales usados según `usemtl` (si existen en el OBJ).
+
+
+
+
+Imagen de prueba:
+
+
+
+
+
+<img width="1996" height="1518" alt="image" src="https://github.com/user-attachments/assets/9df7c539-0aad-497a-8e28-67a9bc113e53" />
