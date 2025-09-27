@@ -1,0 +1,11 @@
+[package]
+name = "blender_obj"
+version = "0.1.0"
+edition = "2024"
+
+[profile.dev]
+opt-level=3
+debug = false
+
+[dependencies]
+anyhow = "1"
